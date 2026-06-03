@@ -10,6 +10,7 @@ The family planned a picnic by the river on Sunday.
 Students worked together to complete their science project.
 """
 
+
 # Convert text into words
 words = text.split()
 
