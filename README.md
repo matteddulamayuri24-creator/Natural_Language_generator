@@ -3,6 +3,8 @@
 This project is a simple Natural Language Generator (NLG) developed using Python. It generates text based on patterns learned from training data using a basic Markov Chain approach. The application predicts the next word and creates meaningful sentences automatically.A Markov Chain is a mathematical model that predicts the next state or word based only on the current state or word. In this NLG project, the next word is chosen using the current word without considering earlier words. 
 This helps generate sentences that follow the patterns learned from the training data.Features like beginner-friendly Python project uses Random Module and Markov Chain Algorithm Used Python requests library for Natural Language Generation Structure nlg-project/ │ ├── nlg.py ├── README.md └── requirements.txt Installation
 
+# Sample code:
+
 import random
 
 
