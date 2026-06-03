@@ -6,23 +6,23 @@ Features like beginner-friendly Python project uses Random Module and Markov Cha
 
 
 sample code:
-import random
-text = """
-Ravi likes to play cricket with his friends after school.
-Priya enjoys reading books in the library every evening.
-The weather was pleasant and everyone went for a walk.
-A little boy found a lost puppy near the market.
-The family planned a picnic by the river on Sunday.
-Students worked together to complete their science project.
-"""
-words = text.split()
-model = {}
-for i in range(len(words) - 1):
-    current_word = words[i]
-    next_word = words[i + 1]
-    if current_word not in model:
-        model[current_word] = []
-    model[current_word].append(next_word)
+    import random
+    text = """
+    Ravi likes to play cricket with his friends after school.
+    Priya enjoys reading books in the library every evening.
+    The weather was pleasant and everyone went for a walk.
+    A little boy found a lost puppy near the market.
+    The family planned a picnic by the river on Sunday.
+    Students worked together to complete their science project.
+    """
+    words = text.split()
+    model = {}
+    for i in range(len(words) - 1):
+        current_word = words[i]
+        next_word = words[i + 1]
+        if current_word not in model:
+            model[current_word] = []
+        model[current_word].append(next_word)
 
 
     def generate_text():
