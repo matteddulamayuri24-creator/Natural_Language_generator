@@ -4,6 +4,17 @@ This project is a simple Natural Language Generator (NLG) developed using Python
 
 This helps generate sentences that follow the patterns learned from the training data.Features like beginner-friendly Python project uses Random Module and Markov Chain Algorithm Used Python requests library for Natural Language Generation Structure nlg-project/ │ ├── nlg.py ├── README.md └── requirements.txt Installation
 
+1.Clone the Repository git clone 
+git clone https://github.com/your-username/nlg-project.git
+
+2.Navigate to Project Folder 
+cd nlg-project
+
+3.Run the Project:
+python nlg.py
+
+4.The program generates and displays text based on the number of texts specified by the user.
+
 # Sample code:
 
 import random
@@ -67,4 +78,5 @@ for i in range(n):
 
 print("\n=== Generation Complete ===")
 
-
+By completing this project, you will learn:
+The basics of Natural Language Generation (NLG), understand how the Markov Chain algorithm generates text, improve your Python programming skills, and gain a foundation in Natural Language Processing (NLP). You will also learn how to process text data and build simple AI-based applications. This project helps develop logical thinking and prepares you for more advanced NLP and chatbot projects.
