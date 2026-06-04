@@ -15,6 +15,21 @@ python nlg.py
 
 4.The program generates and displays text based on the number of texts specified by the user.
 
+# Natural Language Generation Details:
+Enter number of texts to generate: 3
+
+=== Natural Language Generator ===
+
+Generated Text 1:
+Ravi likes to play cricket with his friends after school.
+
+Generated Text 2:
+The weather was pleasant and everyone went for a walk.
+
+Generated Text 3:
+Students worked together to complete their science project.
+
+=== Generation Complete ===
 # Sample code:
 
 import random
