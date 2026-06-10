@@ -96,3 +96,12 @@ print("\n=== Generation Complete ===")
 By completing this project, you will learn:
 
 The basics of Natural Language Generation (NLG), understand how the Markov Chain algorithm generates text, improve your Python programming skills, and gain a foundation in Natural Language Processing (NLP). You will also learn how to process text data and build simple AI-based applications. This project helps develop logical thinking and prepares you for more advanced NLP and chatbot projects.
+
+## Author
+Matteddula Mayuri
+
+Aspiring Software Developer passionate about python, Data Analytics,Machine Learning.
+
+GitHub Profile:
+
+https://github.com/matteddulamayuri24-creator
